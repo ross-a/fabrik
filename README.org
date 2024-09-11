@@ -1,0 +1,10 @@
+# [[file:../../blender.org::*FABRIK (Forward and Backward Reaching Inverse Kinematics)][FABRIK (Forward and Backward Reaching Inverse Kinematics):1]]
+:org_mode_options:
+#+STARTUP: inlineimages
+#+STARTUP: overview
+#+OPTIONS: ^:nil
+:END:
+
+FABRIK (Forward and Backward Reaching Inverse Kinematics)
+[[file:fabrik.png]]
+# FABRIK (Forward and Backward Reaching Inverse Kinematics):1 ends here
